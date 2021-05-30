@@ -4,54 +4,7 @@
 http://distv.
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ceff609636ae03e6425dafdbd72ab1e3.png" group-title="Brazil",BR: Band Sports FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8777
-#EXTINF:-1 tvg-id="" tvg-name="BR: Combate FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f8ef6dd50c1b857e4927b6acf17e1f5e.png" group-title="Brazil",BR: Combate FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8778
-#EXTINF:-1 tvg-id="" tvg-name="BR ESPN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275061
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Brasil HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/584cdcc06374b5da55ce65811d436b27.png" group-title="Brazil",BR: ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/10867
-#EXTINF:-1 tvg-id="" tvg-name="BR ESPN Brasil HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275064
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/280bbb819713bcee901695466ef9320a.png" group-title="Brazil",BR: ESPN Extra HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8789
-#EXTINF:-1 tvg-id="" tvg-name="BR ESPN Extra FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN Extra FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275059
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/9df70541246da4f2f9a65296dc2d5604.png" group-title="Brazil",BR: ESPN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8793
-#EXTINF:-1 tvg-id="" tvg-name="BR ESPN FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR ESPN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/275060
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/803eff84acc7ba0bbdb7301cce19b54d.png" group-title="Brazil",BR: FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8776
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/2c324e02d5a437786a2e0e9657c52501.png" group-title="Brazil",BR: FOX SPORTS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8780
-#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere FC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b5e27276ad261e52a66167b0ea08521f.png" group-title="Brazil",BR: Premiere FC 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8785
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003811/287994003811/30985
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003811/287994003811/30986
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS",PREMIERE 4
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003811/287994003811/30987
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS",PREMIERE 5
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003811/287994003811/30988
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS",PREMIERE 6
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/183
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS",PREMIERE 7
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/clemente/clemente/237
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="SPORTS",PREMIERE CLUBES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003811/287994003811/30989
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="Brazil",BR: SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8783
-#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/37193
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="Brazil",BR: SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8784
-#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/37194
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="Brazil",BR: SPORTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/4015
+
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere Clubes
 http://212.224.98.208:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
 
